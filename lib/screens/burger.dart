@@ -34,7 +34,7 @@ class _BurgerState extends State<Burger> {
         decoration: const BoxDecoration(
             gradient: LinearGradient(
                 colors: [Color(0xffF27121),Color(0xffE94057)],
-                begin: Alignment.topLeft,
+                begin: Alignment.topCenter,
                 end: Alignment.bottomRight,
                 stops: [0,1]
             )
