@@ -37,7 +37,6 @@ class _MagicTextState extends State<MagicText> {
           children: [
 
             const SizedBox(height: 100,),
-
             Stack(
               alignment: Alignment.center,
               children: [
